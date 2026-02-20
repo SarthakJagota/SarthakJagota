@@ -17,8 +17,9 @@ I am interested in machine learning, data science, and scientific ML. My focus i
 
 ### Machine Learning & Data Science
 <p>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,matplotlib,scipy,seaborn,plotly,jupyter" />
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,jupyter" />
 </p>
+
 
 ### Deep Learning
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-000000?style=for-the-badge&logo=pytorch&logoColor=white)
