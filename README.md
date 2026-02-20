@@ -1,42 +1,61 @@
-# 👋 Hi, I’m Sarthak Jagota  
+# Sarthak Jagota
 
-🎓 I’m a Computer Engineering undergrad (Batch of 2028) at **Thapar Institute of Engineering and Technology**.  
-💻 Passionate about programming, data science, and solving real-world problems with technology.  
+Computer Engineering Undergraduate (Batch of 2028)  
+Thapar Institute of Engineering and Technology  
 
----
-
-## 🛠️ Tech Stack  
-
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-005C5C?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+I am interested in machine learning, data science, and building systems that solve real-world problems. My focus is on developing strong fundamentals, contributing to open source, and working on research-oriented ML projects.
 
 ---
 
-## 📈 GitHub Stats  
+## Technical Skills
 
-![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakjagota&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakjagota&layout=compact&theme=radical)  
+**Programming:** C, C++, Python, R, SQL  
 
----
+**Machine Learning & Data Science:**  
+NumPy • Pandas • Matplotlib • Scikit-learn • Time Series Modeling • LSTM  
 
-## 🎯 About Me  
-
-- 🌱 Currently learning: **Machine Learning & Data Science**  
-- 📂 Building projects with Python libraries (NumPy, Pandas, Matplotlib, scikit-learn)  
-- 🤝 Open to collaborate on ML & C++ projects  
-- ⚡ Fun fact: I love breaking down complex problems into simple solutions  
+**Tools & Concepts:**  
+Data Analysis • Model Evaluation • Feature Engineering • Git & GitHub • Open Source Collaboration
 
 ---
 
-## 📬 Connect with Me  
+## Projects & Interests
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-jagota/)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthakjagota34@gmail.com)  
+- Machine learning projects involving healthcare prediction and time-series forecasting  
+- Research-oriented work in scientific machine learning  
+- Open-source contributions (documentation, code refinement, research repositories)  
+- Building end-to-end ML pipelines from data preprocessing to model evaluation  
 
 ---
-⭐️ *Thanks for visiting my profile!*
+
+## Currently Learning
+
+- Advanced Machine Learning  
+- Deep Learning for time-series data  
+- Scientific Machine Learning (ML for physics applications)  
+- Research workflows and reproducible experimentation  
+
+---
+
+## GitHub Statistics
+
+![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakjagota&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakjagota&layout=compact)
+
+---
+
+## Collaboration
+
+I am open to collaborating on:
+
+- Machine learning and data science projects  
+- Scientific ML / research-focused work  
+- Open-source contributions in ML ecosystems  
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/sarthak-jagota/  
+Email: sarthakjagota34@gmail.com
