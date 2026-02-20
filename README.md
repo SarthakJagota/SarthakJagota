@@ -9,7 +9,6 @@ I am interested in machine learning, data science, and scientific ML. My focus i
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
