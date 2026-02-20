@@ -11,16 +11,14 @@ I am interested in machine learning, data science, and scientific ML. My focus i
 
 
 ### Programming Languages
-<<p>
+<p>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,r,mysql" />
 </p>
 
 ### Machine Learning & Data Science
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-005C5C?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,matplotlib,scipy,seaborn,plotly,jupyter" />
+</p>
 
 ### Deep Learning
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-000000?style=for-the-badge&logo=pytorch&logoColor=white)
