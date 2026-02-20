@@ -9,6 +9,8 @@ I am interested in machine learning, data science, and scientific ML. My focus i
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 ### Programming Languages
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -22,6 +24,13 @@ I am interested in machine learning, data science, and scientific ML. My focus i
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-005C5C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Deep Learning
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-000000?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LSTM](https://img.shields.io/badge/-LSTM%20Time%20Series-1E90FF?style=for-the-badge)
 
 ---
 
