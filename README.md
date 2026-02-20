@@ -3,59 +3,56 @@
 Computer Engineering Undergraduate (Batch of 2028)  
 Thapar Institute of Engineering and Technology  
 
-I am interested in machine learning, data science, and building systems that solve real-world problems. My focus is on developing strong fundamentals, contributing to open source, and working on research-oriented ML projects.
+I am interested in machine learning, data science, and scientific ML. My focus is on building strong fundamentals, contributing to open source, and working on research-oriented projects.
 
 ---
 
-## Technical Skills
+## 🛠️ Tech Stack
 
-**Programming:** C, C++, Python, R, SQL  
+### Programming Languages
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Machine Learning & Data Science:**  
-NumPy • Pandas • Matplotlib • Scikit-learn • Time Series Modeling • LSTM  
-
-**Tools & Concepts:**  
-Data Analysis • Model Evaluation • Feature Engineering • Git & GitHub • Open Source Collaboration
-
----
-
-## Projects & Interests
-
-- Machine learning projects involving healthcare prediction and time-series forecasting  
-- Research-oriented work in scientific machine learning  
-- Open-source contributions (documentation, code refinement, research repositories)  
-- Building end-to-end ML pipelines from data preprocessing to model evaluation  
+### Machine Learning & Data Science
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-005C5C?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
-## Currently Learning
+## 📊 GitHub Stats
 
-- Advanced Machine Learning  
-- Deep Learning for time-series data  
-- Scientific Machine Learning (ML for physics applications)  
-- Research workflows and reproducible experimentation  
+![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakjagota&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakjagota&layout=compact)
 
 ---
 
-## GitHub Statistics
+## 🎯 Focus Areas
 
-![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakjagota&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakjagota&layout=compact)
+- Machine learning for real-world applications  
+- Time-series forecasting using deep learning (LSTM)  
+- Scientific machine learning and physics-based datasets  
+- End-to-end ML pipelines and reproducible experimentation  
+- Open source contributions in research repositories
 
 ---
 
-## Collaboration
+## 🤝 Collaboration
 
-I am open to collaborating on:
+Open to collaborating on:
 
 - Machine learning and data science projects  
-- Scientific ML / research-focused work  
-- Open-source contributions in ML ecosystems  
+- Scientific ML / research work  
+- Open-source ML ecosystems
 
 ---
 
-## Contact
+## 📬 Contact
 
-LinkedIn: https://www.linkedin.com/in/sarthak-jagota/  
-Email: sarthakjagota34@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-jagota/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthakjagota34@gmail.com)
