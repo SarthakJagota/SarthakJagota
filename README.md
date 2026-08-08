@@ -22,10 +22,14 @@ Most of my time goes into fundamentals: data structures, systems, databases, and
 
 ## Tools
 
-**Languages** — C, C++, Python, R, SQL, JavaScript
-**Web** — HTML, CSS, JavaScript
-**Data** — MySQL, NumPy, pandas, Matplotlib
-**Workflow** — Git, Linux, Jupyter
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,r,mysql,html,css,js&theme=light" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode,github&theme=light" />
+</p>
+
+**Data** — NumPy · pandas · Matplotlib · Jupyter
 
 I treat this list as evidence of what I've used, not a claim of mastery in each.
 
