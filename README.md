@@ -1,67 +1,49 @@
 # Sarthak Jagota
 
-Computer Engineering Undergraduate (Batch of 2028)  
-Thapar Institute of Engineering and Technology  
+**Computer Engineering, B.E. 2028** · Thapar Institute of Engineering and Technology
 
-I am interested in machine learning, data science, and scientific ML. My focus is on building strong fundamentals, contributing to open source, and working on research-oriented projects.
+I'm an engineering undergraduate who likes understanding how things work underneath — how a query planner decides on an index, why one algorithm beats another at scale, what actually happens between a request and a response. I build things to find out, and I write them down so the next person doesn't have to start from zero.
 
----
+Most of my time goes into fundamentals: data structures, systems, databases, and the mathematics that keeps showing up everywhere. I'd rather know one layer deeply than five superficially.
 
-## 🛠️ Tech Stack
-
-
-### Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,r,mysql,html,css,js" />
-</p>
-
-### Machine Learning & Data Science
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-005C5C?style=for-the-badge&logo=plotly&logoColor=white)
-![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### Deep Learning
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LSTM](https://img.shields.io/badge/-LSTM%20Time%20Series-1E90FF?style=for-the-badge)
-![Deep%20Learning](https://img.shields.io/badge/-Deep%20Learning-000000?style=for-the-badge&logo=pytorch&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-jagota/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sarthakjagota34@gmail.com)
 
 ---
 
-## 📊 GitHub Stats
+## What I Work On
 
-![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakjagota&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakjagota&layout=compact)
-
----
-
-## 🎯 Focus Areas
-
-- Machine learning for real-world applications  
-- Time-series forecasting using deep learning (LSTM)  
-- Scientific machine learning and physics-based datasets  
-- End-to-end ML pipelines and reproducible experimentation  
-- Open source contributions in research repositories
+- **Problem solving** — data structures and algorithms in C++, with attention to why a solution is correct, not just that it passes
+- **Systems and databases** — relational design, query behaviour, and the layers between application code and disk
+- **Applications** — building complete things end to end, from data layer to interface
+- **Reproducible work** — versioned, documented, and runnable by someone who isn't me
 
 ---
 
-## 🤝 Collaboration
+## Tools
 
-Open to collaborating on:
+**Languages** — C, C++, Python, R, SQL, JavaScript
+**Web** — HTML, CSS, JavaScript
+**Data** — MySQL, NumPy, pandas, Matplotlib
+**Workflow** — Git, Linux, Jupyter
 
-- Machine learning and data science projects  
-- Scientific ML / research work  
-- Open-source ML ecosystems
+I treat this list as evidence of what I've used, not a claim of mastery in each.
 
 ---
 
-## 📬 Contact
+## How I Work
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-jagota/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthakjagota34@gmail.com)
+I care about clarity over cleverness. Code that a teammate can read six months later is worth more than code that saves three lines. I document as I go, I'd rather ask an obvious question than build the wrong thing quietly, and I try to leave every repository in a state where the README alone is enough to get started.
+
+---
+
+## Open To
+
+Collaboration on open-source projects, research-oriented work, and anything where I'd be the least experienced person in the room. If you're building something and could use an extra pair of hands, my inbox is open.
+
+---
+
+<a href="https://github.com/SarthakJagota">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SarthakJagota&show_icons=true&hide_border=true&include_all_commits=true&hide=issues" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakJagota&layout=compact&hide_border=true&langs_count=6" />
+</a>
